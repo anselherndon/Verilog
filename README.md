@@ -1,2 +1,2 @@
 # Verilog
-Project Portfolio from Digital Systems Design. 
+Project portfolio from Digital Systems Design. 
