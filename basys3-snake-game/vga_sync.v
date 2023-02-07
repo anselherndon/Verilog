@@ -1,4 +1,6 @@
 
+//VGA protocol support file for snake.v
+
 module vga_sync (
     input vga_clk,
     output reg [9:0] xcount, ycount,
