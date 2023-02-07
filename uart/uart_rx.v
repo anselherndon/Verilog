@@ -1,3 +1,6 @@
+//Ansel Herndon
+//ECE480 Fall 2022
+
 `timescale 1ns / 1ps
 
 module uart_rx (
